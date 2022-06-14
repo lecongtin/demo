@@ -1,0 +1,3 @@
+bài 1, 2, 3  mặc định thông số vẫn cho người ta chỉnh 
+bài 4,5 là bài ngẫu nhiên 
+Endurance setting view chỉ để hiện bài test 
